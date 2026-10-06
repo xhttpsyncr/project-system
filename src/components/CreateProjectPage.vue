@@ -58,7 +58,6 @@ export default {
 </script>
 
 <style scoped>
-/* Container for the Create Project page */
 .create-project-container {
   display: flex;
   flex-direction: column;
@@ -68,14 +67,12 @@ export default {
   min-height: 100vh;
 }
 
-/* Title styling */
 h2 {
   margin-bottom: 20px;
   font-size: 2rem;
   color: #333;
 }
 
-/* Form and input styling */
 .create-form {
   display: flex;
   flex-direction: column;
