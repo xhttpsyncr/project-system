@@ -49,7 +49,6 @@ export default {
 </script>
 
 <style scoped>
-/* Basic layout styling */
 .dashboard-container {
   display: flex;
   flex-direction: column;
@@ -64,7 +63,6 @@ h2 {
   color: #333;
 }
 
-/* Button styling */
 .actions {
   display: flex;
   gap: 10px;
@@ -94,7 +92,6 @@ button:hover {
   opacity: 0.8;
 }
 
-/* Projects list styling */
 .projects-list {
   list-style-type: none;
   padding: 0;
